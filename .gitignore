@@ -1,3 +1,5 @@
 *.pyc
 *.bak
 road_emission_calculator_dialog_base.py
+.vscode
+*.zip
